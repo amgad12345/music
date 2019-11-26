@@ -4,9 +4,52 @@
 
 html {
   height: 100%;
+  background-color: brown;
 }
 
 body {
   margin: 0;
   min-height: 100%;
+}
+
+
+img {
+  height:20rem;
+}
+
+
+.eminem {
+  background-color: brown;
+  padding-bottom: 11rem;
+  padding-top: 2rem;
+  
+  
+}
+
+
+.amy {
+  background-color: pink;
+}
+
+
+
+.list {
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+list-style:outside none none;
+
+}
+
+
+
+li {
+  font-size: 1.5rem;
+}
+
+
+
+p {
+font-size: 2rem;
+
 }
