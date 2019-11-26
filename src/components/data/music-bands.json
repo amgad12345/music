@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "category": "eminem",
+      "mbands": [
+        {
+          "image": "https://images.complex.com/complex/images/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/kvi56ul6cnrgkv0yvgdy/eminem-rumored-wwe-smackdown-appearance",
+          "name": "Eminem",
+          "LatestAlbum": "latest album :The Eminem Show" ,
+          "LatestAlbuminformation": "the eminem show was and still one of eminems best work sold over 20 million record world wide",
+          "born in": "detroit",
+          "className": "eminem"
+        }
+      ]
+    },
+    {
+      "category": "amywinehouse",
+      "mbands": [
+        {
+          "image": "https://ljazzn.files.wordpress.com/2011/07/f6223-amy2bwinehouse3.jpg",
+          "name": "amywinehouse",
+          "LatestAlbum":"latest album : Amy Winehouse at The BBC",
+          "LatestAlbuminformation": "Amy Winehouse at the BBC is a posthumous live album by English singer and songwriter Amy Winehouse.",
+          
+          "className": "amy"
+        }
+      ]
+    },
+    {
+      "category": "thexx",
+      "mbands": [
+        {
+          "image": "http://www.loyolaphoenix.com/wp-content/uploads/2012/10/xx.jpg",
+          "name": "The xx",
+          "LatestAlbum": "latest album : I See You",
+          "LatestAlbuminformation": "I See You was described by AnyDecentMusic? as an album of indie rock and dream pop music, while Matt Hobbs from God Is in the TV said the xx expanded on the dance portion of their usual fusion of indie and alternative dance sounds.",
+          "className": "xx"
+        }
+      ]
+    }
+  ]
+}
